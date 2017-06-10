@@ -1,0 +1,17 @@
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\obj\Debug\Tabs.csprojResolveAssemblyReference.cache
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\obj\Debug\Tabs.MainPage.xaml.g.cs
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\obj\Debug\Tabs.App.xaml.g.cs
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\obj\Debug\Tabs.AzureTables.xaml.g.cs
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\obj\Debug\Tabs.CustomVision.xaml.g.cs
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\bin\Debug\Tabs.dll
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\bin\Debug\Tabs.pdb
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\obj\Debug\Tabs.dll
+C:\Users\ip569\Desktop\MSA\not-hotdog\Tabs\Tabs\Tabs\obj\Debug\Tabs.pdb
